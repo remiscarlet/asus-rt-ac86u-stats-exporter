@@ -1,0 +1,3 @@
+[submodule "secrets"]
+	path = secrets
+	url = git@github-remi-rw:remiscarlet/asus-rt-ac86u-stats-exporter-secrets.git
